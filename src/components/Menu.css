@@ -1,0 +1,20 @@
+.btn-volver {
+  margin-top: 2rem;
+  padding: 0.5rem 1.2rem;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btn-volver:hover {
+  background-color: #2563eb;
+}
+
+.ejercicio {
+  padding: 1rem;
+  text-align: center;
+}
